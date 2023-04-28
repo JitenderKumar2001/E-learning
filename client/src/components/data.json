@@ -1,0 +1,25 @@
+{
+    "data": [
+      {
+        "title": "Advanced Web design",
+        "lesson": 28,
+        "price": 105,
+        "duration": "19 Hours",
+        "image": "https://smartstarttech.com/smart-blog/wp-content/uploads/2021/04/web-design-and-development-eugene-oregon.jpg"
+      },
+      {
+        "title": "Digital Marketing",
+        "lesson": 35,
+        "price": 0,
+        "duration": "22 Hours",
+        "image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/history_and_evolution_of_digital_marketing.jpg"
+      },
+      {
+        "title": "Professional Graphic Designer",
+        "lesson": 42,
+        "price": 49,
+        "duration": "15 Hours",
+        "image": "https://www.codelivly.com/wp-content/uploads/2022/10/graphic-designer-1024x614.webp"
+      }
+    ]
+  }  
